@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afk_bot",
+    "username": "KomiXer_Fan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "KomiXer66.aternos.me",
-    "port": 37372,
+    "ip": "komixerland.falix.pro",
+    "port": 21178,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "0918273645"
     },
     "anti-afk": {
       "enabled": true,
